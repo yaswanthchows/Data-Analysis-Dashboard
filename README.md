@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard
-Built a Banking Loan Analysis Dashboard in Excel by performing data preprocessing, relationship building, and analysis. Designed KPI dashboards, Pivot Charts, Slicers, and Map Charts to deliver interactive business insights and support decision-making.
+#Banking-Loan-Analysis-Dashboard
+##The objective of this project is to analyze loan applications, approvals, repayments, and customer information to create an interactive dashboard that helps bank management understand:
