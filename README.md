@@ -21,4 +21,7 @@ Calculate Outstanding Amount.
 <a href="https://raw.githubusercontent.com/yaswanthchows/Data-Analysis-Dashboard/main/Banking_Loan_Large_Dataset.xlsm" target="_blank">Dashboard</a>
 
 ## Dashboard Image
-<a href="https://github.com/yaswanthchows/Data-Analysis-Dashboard/blob/main/Banking%20loan%20analysis%20dashboard%20photo.png"  target="_blank">Dashboard image</a>
+
+![Banking Loan Analysis Dashboard](https://raw.githubusercontent.com/yaswanthchows/Data-Analysis-Dashboard/main/Banking%20loan%20analysis%20dashboard%20photo.png)
+
+
